@@ -1,30 +1,46 @@
+<div align="center">
+
 # Asmita
 
-Senior Software Engineer with 5+ years of experience building production software for neural, clinical, and medical-imaging systems.
+**Senior Software Engineer**
 
-I work across software architecture, distributed and concurrent systems, asynchronous workflows, and data-intensive applications. My focus is dependable software: clear system boundaries, memory-efficient streaming pipelines, thoughtful data models, and reliable production releases.
-
-## Current focus
-
-- Neural and clinical software systems, including EEG and signal-processing workflows
-- Distributed backend architecture and asynchronous processing
-- Data and ML infrastructure, including transformer fine-tuning workflows
-- Technical ownership: architectural direction, guiding engineers, release ownership, and resolving critical production issues
-
-## Technologies
-
-- **Languages and platforms:** Python, C# / .NET, SQL, .NET MAUI
-- **Systems and interfaces:** gRPC, Protobuf, Docker, Azure, HL7, OAuth
-- **Data:** MSSQL, DuckDB, Parquet, OLTP / OLAP data modelling, memory-efficient streaming pipelines
-- **Application engineering:** MVVM, Skia, concurrent and asynchronous systems
-- **Neural and ML:** EEG, BCI, neural signal processing, MNE-Python, MATLAB, ML/data infrastructure
-
-## Research
-
-MSc in Cognitive Systems, with work spanning EEG, Brain-Computer Interfaces, neural signal processing, and neurotechnology research using MNE-Python and MATLAB.
-
-**Publication:** *In vivo phase-dependent enhancement and suppression of human brain oscillations by transcranial alternating current stimulation (tACS)* — NeuroImage, 2023.
-
-## Connect
+Neural systems · Clinical software · Backend architecture · Data systems
 
 [LinkedIn](https://www.linkedin.com/in/asmita27/)
+
+</div>
+
+---
+
+I have 5+ years of experience building production software for neural, clinical, and medical-imaging systems. I work across software architecture, distributed and concurrent systems, asynchronous workflows, and data-intensive applications—with an emphasis on clear boundaries, efficient pipelines, and production reliability.
+
+### Current focus
+
+| Area | Focus |
+| --- | --- |
+| **Neural & clinical systems** | EEG, signal-processing workflows, clinical and medical-imaging software |
+| **Backend architecture** | Distributed and concurrent systems, asynchronous processing, gRPC services |
+| **Data & ML infrastructure** | Streaming pipelines, analytical data systems, transformer fine-tuning workflows |
+| **Technical ownership** | Architectural direction, guiding engineers, release ownership, critical issue resolution |
+
+### Technologies
+
+**Languages & application engineering**<br>
+`Python` · `C# / .NET` · `SQL` · `.NET MAUI` · `MVVM` · `Skia`
+
+**Backend & integration**<br>
+`gRPC` · `Protobuf` · `HL7` · `OAuth` · `Docker` · `Azure`
+
+**Data systems**<br>
+`MSSQL` · `DuckDB` · `Parquet` · `OLTP / OLAP modelling` · `Memory-efficient streaming`
+
+**Neural & ML workflows**<br>
+`EEG` · `BCI` · `MNE-Python` · `MATLAB` · `Neural signal processing` · `ML/data infrastructure`
+
+### Research
+
+MSc in Cognitive Systems, with research spanning EEG, Brain-Computer Interfaces, neural signal processing, and neurotechnology using MNE-Python and MATLAB.
+
+> **Publication**<br>
+> *In vivo phase-dependent enhancement and suppression of human brain oscillations by transcranial alternating current stimulation (tACS)*<br>
+> NeuroImage, 2023
