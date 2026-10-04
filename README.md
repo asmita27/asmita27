@@ -18,12 +18,13 @@ I have 5+ years of experience building production software for neural, clinical,
 
 ### Current focus
 
-| Area | Focus |
-| --- | --- |
-| **Neural & clinical systems** | EEG, signal-processing workflows, clinical and medical-imaging software |
-| **Backend architecture** | Distributed and concurrent systems, asynchronous processing, gRPC services |
-| **Data & ML infrastructure** | Streaming pipelines, analytical data systems, transformer fine-tuning workflows |
-| **Technical ownership** | Architectural direction, guiding engineers, release ownership, critical issue resolution |
+**Neural & clinical systems** — EEG and signal-processing workflows, clinical software, and medical-imaging systems
+
+**Backend architecture** — Distributed and concurrent systems, asynchronous processing, and gRPC services
+
+**Data & ML infrastructure** — Memory-efficient streaming pipelines, analytical data systems, and transformer fine-tuning workflows
+
+**Technical ownership** — Architectural direction, guiding engineers, release ownership, and critical issue resolution
 
 ### Technologies
 
@@ -44,5 +45,5 @@ I have 5+ years of experience building production software for neural, clinical,
 MSc in Cognitive Systems, with research spanning EEG, Brain-Computer Interfaces, neural signal processing, and neurotechnology using MNE-Python and MATLAB.
 
 > **Publication**<br>
-> *In vivo phase-dependent enhancement and suppression of human brain oscillations by transcranial alternating current stimulation (tACS)*<br>
-> NeuroImage, 2023
+> [*In vivo phase-dependent enhancement and suppression of human brain oscillations by transcranial alternating current stimulation (tACS)*](https://doi.org/10.1016/j.neuroimage.2023.120187)<br>
+> NeuroImage, 2023 · [DOI: 10.1016/j.neuroimage.2023.120187](https://doi.org/10.1016/j.neuroimage.2023.120187)
