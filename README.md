@@ -1,34 +1,31 @@
 <p align="center">
-  <img src="./assets/eeg-wave.png" width="620" alt="Abstract EEG signal traces">
+  <img src="./assets/eeg-wave.png" width="720" alt="Abstract EEG signal traces">
 </p>
 
-<h1 align="center">Asmita</h1>
+# Asmita
 
-<p align="center">
-  <strong>Senior Software Engineer</strong><br>
-  5+ years building production software for neural, clinical, and medical-imaging systems.<br><br>
-  <a href="https://www.linkedin.com/in/asmita27/">LinkedIn</a> · <a href="https://doi.org/10.1016/j.neuroimage.2023.120187">Publication</a>
-</p>
+**Senior Software Engineer** · Neural, clinical, and medical-imaging systems
+
+5+ years building reliable production software across backend architecture, data systems, and signal-processing workflows.
+
+[LinkedIn](https://www.linkedin.com/in/asmita27/)
 
 ## Focus
 
-- Neural and clinical software, including EEG and signal-processing workflows
-- Distributed backends, asynchronous systems, and reliable production releases
-- Data and ML infrastructure, from memory-efficient pipelines to transformer fine-tuning
+- Distributed and asynchronous backend systems
+- EEG, BCI, clinical software, and neural signal processing
+- Memory-efficient data pipelines and ML infrastructure
+- Architecture, release ownership, and critical issue resolution
 
 ## Skills
 
-**Engineering:** Python · C# / .NET · SQL · gRPC · Protobuf · concurrent and asynchronous systems
-
-**Data & infrastructure:** MSSQL · DuckDB · Parquet · OLTP / OLAP modelling · Azure · Docker
-
-**Clinical & applications:** HL7 · OAuth · .NET MAUI · MVVM · Skia
-
-**Neural & ML:** EEG · BCI · MNE-Python · MATLAB · neural signal processing · ML/data infrastructure
+**Software:** Python · C# / .NET · .NET MAUI · MVVM · Skia<br>
+**Systems:** gRPC · Protobuf · concurrent and asynchronous workflows<br>
+**Data & platform:** SQL · MSSQL · DuckDB · Parquet · OLTP / OLAP · Azure · Docker<br>
+**Clinical & ML:** HL7 · OAuth · MNE-Python · MATLAB · transformer fine-tuning
 
 ## Research
 
-MSc in Cognitive Systems, focused on EEG, Brain-Computer Interfaces, neural signal processing, and neurotechnology research.
+MSc in Cognitive Systems, focused on EEG, Brain-Computer Interfaces, neural signal processing, and neurotechnology.
 
-[*In vivo phase-dependent enhancement and suppression of human brain oscillations by transcranial alternating current stimulation (tACS)*](https://doi.org/10.1016/j.neuroimage.2023.120187)<br>
-NeuroImage, 2023 · [DOI](https://doi.org/10.1016/j.neuroimage.2023.120187)
+**Publication:** [*In vivo phase-dependent enhancement and suppression of human brain oscillations by transcranial alternating current stimulation (tACS)*](https://doi.org/10.1016/j.neuroimage.2023.120187) · NeuroImage, 2023 · [DOI](https://doi.org/10.1016/j.neuroimage.2023.120187)
