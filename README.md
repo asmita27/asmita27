@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/neural-wave.png" width="760" alt="Abstract neural waveform forming the outline of a brain">
+
 # Asmita
 
 **Senior Software Engineer**
