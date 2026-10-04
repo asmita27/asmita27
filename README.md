@@ -34,7 +34,7 @@ I have 5+ years of experience building production software for neural, clinical,
 `gRPC` · `Protobuf` · `HL7` · `OAuth` · `Docker` · `Azure`
 
 **Data systems**<br>
-`MSSQL` · `DuckDB` · `Parquet` · `OLTP / OLAP modelling` · `Memory-efficient streaming`
+`MSSQL` · `DuckDB` · `Parquet` · `Memory-efficient streaming`
 
 **Neural & ML workflows**<br>
 `EEG` · `BCI` · `MNE-Python` · `MATLAB` · `Neural signal processing` · `ML/data infrastructure`
