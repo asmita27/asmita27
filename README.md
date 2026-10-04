@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neural-wave.png" width="620" alt="Abstract neural waveform forming the outline of a brain">
+  <img src="./assets/eeg-wave.png" width="620" alt="Abstract EEG signal traces">
 </p>
 
 <h1 align="center">Asmita</h1>
@@ -15,8 +15,6 @@
 - Neural and clinical software, including EEG and signal-processing workflows
 - Distributed backends, asynchronous systems, and reliable production releases
 - Data and ML infrastructure, from memory-efficient pipelines to transformer fine-tuning
-
-Technical ownership across architecture, engineer guidance, releases, and critical issue resolution.
 
 ## Skills
 
