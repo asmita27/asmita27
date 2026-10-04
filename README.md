@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/eeg-wave.png" width="720" alt="Abstract EEG signal traces">
+  <img src="./assets/eeg-wave-compact.png" width="640" alt="Abstract EEG signal traces">
 </p>
 
 # Asmita
