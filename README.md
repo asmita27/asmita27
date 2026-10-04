@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/eeg-wave-compact.png" width="640" alt="Abstract EEG signal traces">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/data-flow-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/data-flow-light.png">
+    <img src="./assets/data-flow-light.png" width="640" alt="Abstract structured data-flow diagram">
+  </picture>
 </p>
 
 # Asmita
