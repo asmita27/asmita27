@@ -25,7 +25,7 @@
 
 **Software:** Python · C# / .NET · .NET MAUI · MVVM · Skia<br>
 **Systems:** gRPC · Protobuf · concurrent and asynchronous workflows<br>
-**Data & platform:** SQL · MSSQL · DuckDB · Parquet · OLTP / OLAP · Azure · Docker<br>
+**Data & platform:** SQL · MSSQL · DuckDB · Parquet · Azure · Docker<br>
 **Clinical & ML:** HL7 · OAuth · MNE-Python · MATLAB · transformer fine-tuning
 
 ## Research
